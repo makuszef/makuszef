@@ -4,4 +4,4 @@
 - **📺 YouTube Channel**: [makuszef](https://www.youtube.com/@Makuszef)
 - **🎓 Cybersecurity Student**: 7th semester
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makuszef&layout=pie)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makuszef&layout=pie)
